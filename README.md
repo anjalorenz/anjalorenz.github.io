@@ -1,10 +1,10 @@
 # Mehr über mich
 
-🐮 Webseite: [Secret Cow Level](https://secret-cow-level.de/)
+🔗 [Secret Cow Level](https://secret-cow-level.de/)
 
-🦆 Twitter: [@anjalorenz](https://twitter.com/anjalorenz)
+🦆 [@anjalorenz](https://twitter.com/anjalorenz)
 
-🎙️ Podcast: [BldgAltEntf](https://bldg-alt-entf.de/)
+🎙️ [BldgAltEntf](https://bldg-alt-entf.de/)
 
 🦄 [EduCamp](https://educamps.org/)
 
