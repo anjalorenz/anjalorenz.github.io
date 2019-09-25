@@ -2,7 +2,7 @@
 
 Die nachfolgenden Spiele sind in gutem Zustand, aber entsprechen entweder nicht (mehr) unseren Spielvorlieben. Wir geben sie gern kostenlos ab, sie sind zum Wegwerfen schlichtweg zu schade. Meldet Euch auf dem Kanal Eurer Wahl, wenn was für Euch dabei ist. Wir reservieren es dann für Euch und bringen es bei Gelegenheit mit.
 
-Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer Wahl :)
+Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer Wahl.
 
 * [Deutschlandreise](#deutschlandreise)
 * [Europa: Reise ohne Grenzen](#europa--reise-ohne-grenzen)
