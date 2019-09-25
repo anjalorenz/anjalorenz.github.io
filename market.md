@@ -2,6 +2,9 @@
 
 <img src="https://github.com/anjalorenz/anjalorenz.github.io/blob/master/market/img-deutschlandreise.jpg" width="400"/>
 
+![Deutschlandreise](market/img-deutschlandreise.jpg)
+
+
 img-europa.jpg	Add files via upload	8 minutes ago
 img-frustr8tor.jpg	Add files via upload	8 minutes ago
 img-gummibaerchen.jpg	Add files via upload	8 minutes ago
