@@ -15,7 +15,6 @@ Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer W
 * [Noch Mal!](#noch-mal-)
 * [Sphinx](#sphinx)
 * [Spiel des Wissens](#spiel-des-wissens)
-* [Tabu Junior](#tabu-junior)
 * [Kosmos: Schauplatz Teich](#kosmos--schauplatz-teich)
 * [Mona Lisa hat keine Augenbrauen (unnützes Wissen)](#mona-lisa-hat-keine-augenbrauen--unn-tzes-wissen-)
 * [Kosmos: Zitronenuhr](#kosmos--zitronenuhr)
@@ -64,10 +63,6 @@ Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer W
 
 ![NAME](market/img-spiel-des-wissens.jpg)
 
-## Tabu Junior
-
-![NAME](market/img-tabu-jr.jpg)
-
 ## Kosmos: Schauplatz Teich
 
 ![NAME](market/img-teich.jpg)
@@ -79,3 +74,7 @@ Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer W
 ## Kosmos: Zitronenuhr
 
 ![NAME](market/img-zitronenuhr.jpg)
+
+## Leider schon weg
+
+* Tabu Junior (CD)
