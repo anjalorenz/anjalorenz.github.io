@@ -9,7 +9,6 @@ Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer W
 * [Frustr8tor](#frustr8tor)
 * [Das Gummibärchen-Orakel](#das-gummib-rchen-orakel)
 * [Hanabi](#hanabi)
-* [Mankomania](#mankomania)
 * [Was ist was: Reise durch das Mittelalter](#was-ist-was--reise-durch-das-mittelalter)
 * [Der Natur auf der Spur](#der-natur-auf-der-spur)
 * [Noch Mal!](#noch-mal-)
@@ -38,10 +37,6 @@ Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer W
 ## Hanabi
 
 ![NAME](market/img-hanabi.jpg)
-
-## Mankomania
-
-![NAME](market/img-mankomania.jpg)
 
 ## Was ist was: Reise durch das Mittelalter
 
@@ -78,3 +73,4 @@ Für mehr Infos zu den einzelnen Spielen, bemüht bitte die Suchmaschine Eurer W
 ## Leider schon weg
 
 * Tabu Junior (CD)
+* Makomania (BKC)
